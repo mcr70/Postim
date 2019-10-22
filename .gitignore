@@ -1,5 +1,7 @@
 bin/
 lib/
 images/
+__pycache__
+*.pyc
 pyvenv.cfg
 Models/postim_weights.h5
